@@ -1,0 +1,115 @@
+body{
+    height: 100vh;
+    background: #070707;
+}
+header{
+    height: 10vh;
+    border-bottom: solid 1px #6E6864;
+    color: #9D9F9F;
+    position: relative;
+}
+header h1{
+    position: absolute;
+    top: -5px;
+}
+header h3{
+    position: absolute;
+    /* top: 5px; */
+    left: 50px;
+}
+header nav ul li{
+    list-style: none;
+}
+header nav ul li:nth-child(1){
+    position: absolute;
+    top: 5px;
+    right: 40%;
+
+}
+header nav ul li:nth-child(2){
+    position: absolute;
+    top: 5px;
+    right: 30%;
+
+}
+header nav ul li:nth-child(3){
+    position: absolute;
+    top: 5px;
+    right: 20%;
+
+}
+header nav ul li:nth-child(4){
+    position: absolute;
+    top: 5px;
+    right: 10%;
+
+}
+section{
+    position: relative;
+    height: 80vh;
+}
+section h1{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+}
+section p{
+    color: #AC8059;
+    position: absolute;
+    left: 10%;
+    bottom: 0px;
+
+}
+section div{
+    /* height: 80vh;
+    width: 20vw; */
+    position: relative;
+}
+section div img:nth-child(1){
+    position: absolute;
+    left: 15%;
+    top: 70px;
+    height: 80vh;
+    width: 20vw;
+}
+section div img:nth-of-type(2){
+    position: absolute;
+    left: 30%;
+    top: 70px;
+    height: 80vh;
+    width: 20vw;
+}
+section div img:nth-of-type(3){
+    position: absolute;
+    right: 15%;
+    top: 70px;
+    height: 80vh;
+    width: 20vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* https://i.pinimg.com/originals/cb/a2/12/cba212eed69977e8935c472cccd2a0d6.jpg
+https://i.pinimg.com/736x/46/5d/71/465d7140a2cac9b6ea78feabd5000669--grey-interior-design-dark-grey-interior.jpg
+https://www.digsdigs.com/photos/2016/10/dark-alluring-bedroom-with-very-simple-and-minimalist-decor.jpg */
